@@ -1,0 +1,15 @@
+[
+    {    "id":1,
+        "name": "JavaScript"
+    },
+    {    "id":2,
+        "name": "React Js"
+    },
+    {    "id":3,
+        "name": "Node Js"
+    },
+    
+    {    "id":4,
+        "name": "All News"
+    }
+]
