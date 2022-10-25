@@ -3,96 +3,97 @@
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "category_id": "1",
       "image_url": "https://media.istockphoto.com/photos/coding-language-development-icon-on-yellow-background-software-picture-id1372764637?b=1&k=20&m=1372764637&s=170667a&w=0&h=AAXme4I49rP563h1ihhW_GUtHf1_bJCmKB4mm0gYnjs=",
-      "name": "JavaScript",
+      "name": "JavaScript For Beginners",
       "rating": 4.5, 
       "total_view": 488,
-      "price":400,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "price":90,
+      "title": "Full Stack Web Development (JavaScript)",
       "author": {
-        "name":"Afsa",
+        "name":"Abul Kalam",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      
+      "details":"Modern websites and applications are usually dynamic. In other words, users interact with them in various ways. Those interactions are then controlled by a system that also collects and stores important data. Web developers use different technologies to support the entire process. In this course you will mainly focus on JavaScript-based technologies.Modern websites and applications are usually dynamic. In other words, users interact with them in various ways. Those interactions are then controlled by a system that also collects and stores important data. Web developers use different technologies to support the entire process. In this course you will mainly focus on JavaScript-based technologies."
     },
    {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "category_id": "2",
-      "image_url": "https://media.istockphoto.com/photos/coding-language-development-icon-on-yellow-background-software-picture-id1372764637?b=1&k=20&m=1372764637&s=170667a&w=0&h=AAXme4I49rP563h1ihhW_GUtHf1_bJCmKB4mm0gYnjs=",
-      "name": "JavaScript",
-      "rating": 4.5, 
-      "total_view": 488,
-      "price":400,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "category_id": "3",
+      "image_url": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Professional graphic design",
+      "rating": 5, 
+      "total_view": 788,
+      "price":40,
+      "title": "Professional graphic design",
       "author": {
-        "name":"Afsa",
+        "name":"Sufia Akter",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "details": "Being a successful graphic designer requires quality curriculum training as well as project-based work experience and a good understanding of the marketplace. So all these are included together in our course module. From the graphic design course you will learn to design any advertisement, banner, t-shirt design, product using Adobe Photoshop and Adobe Illustrator. Moreover, you get the opportunity to use modern lab for project based work."
     },
    {
       "_id": "f69a695f037cd9484cecaea37ca71011",
       "category_id": "3",
-      "image_url": "https://media.istockphoto.com/photos/coding-language-development-icon-on-yellow-background-software-picture-id1372764637?b=1&k=20&m=1372764637&s=170667a&w=0&h=AAXme4I49rP563h1ihhW_GUtHf1_bJCmKB4mm0gYnjs=",
-      "name": "JavaScript",
+      "image_url": "https://media.istockphoto.com/photos/ux-graphic-designer-creative-sketch-planning-application-process-picture-id1169087529?b=1&k=20&m=1169087529&s=170667a&w=0&h=0HD656KAA0PV1QpEhuYhyq3K95LkNVKINs-lDx8T4Ds=",
+      "name": "UX/UI Design",
       "rating": 4.5, 
-      "total_view": 488,
-      "price":400,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "total_view": 344,
+      "price":99,
+      "title": "UX/UI Design",
       "author": {
-        "name":"Afsa",
+        "name":"Ahsan Sorker",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "details": "Where an app or site can have what options are designed through UX/UI Design. Demand for UX/UI designers has also increased hundreds of times for smart work and good salary.So our course will cover you with basic sketching. Learn how to create a flowchart for designing a website, app or banner here. You will learn the use of trendy software Adobe XD and Figma for UX/UI from this course."
     },
    {
       "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": "3",
-      "image_url": "https://media.istockphoto.com/photos/coding-language-development-icon-on-yellow-background-software-picture-id1372764637?b=1&k=20&m=1372764637&s=170667a&w=0&h=AAXme4I49rP563h1ihhW_GUtHf1_bJCmKB4mm0gYnjs=",
-      "name": "JavaScript",
-      "rating": 4.5, 
-      "total_view": 488,
-      "price":400,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "category_id": "1",
+      "image_url": "https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?size=626&ext=jpg&ga=GA1.2.802357311.1666723724&semt=sph",
+      "name":"Full Stack Web Development (MERN)",
+      "rating": 4.4, 
+      "total_view": 928,
+      "price":99,
+      "title":"Full Stack Web Development (MERN)",
       "author": {
         "name":"Afsa",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "details": "To become a full-stack web developer, you need to know the front-end and back-end of a website or web application very well. So throughout the program you will get to learn both types of development in a few steps.Web Development BasicsKnowing HTML and CSS at the most basic level is very useful for any kind of web development. Knowing a framework like Boostrap gives an added advantage. If you do not know about them, you will learn in this course.."
     },
    {
       "_id": "11468ed61aee84de492a8b04158a22f0",
       "category_id": "2",
-      "image_url": "https://media.istockphoto.com/photos/coding-language-development-icon-on-yellow-background-software-picture-id1372764637?b=1&k=20&m=1372764637&s=170667a&w=0&h=AAXme4I49rP563h1ihhW_GUtHf1_bJCmKB4mm0gYnjs=",
-      "name": "JavaScript",
+      "image_url": "https://media.istockphoto.com/photos/nodejs-inscription-against-laptop-and-code-background-picture-id1347542592?b=1&k=20&m=1347542592&s=170667a&w=0&h=L7Vdq9Ae4cAlL-xZ_EqZog1wixnNUGOJHmEjhW868Xg=",
+      "name": "The compelete Backend Node.js course in 2022",
       "rating": 4.5, 
-      "total_view": 488,
-      "price":400,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "total_view": 337,
+      "price":77,
+      "title": "The compelete Backend Node.js course in 2022",
       "author": {
         "name":"Afsa",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "details": "The API reference documentation provides detailed information about a function or object in Node.js. This documentation indicates what arguments a method accepts, the return value of that method, and what errors may be related to that method. It also indicates which methods are available for different versions of Node.js.This documentation describes the built-in modules provided by Node.js. It does not document modules provided by the community."
     },
    {
       "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-      "category_id": "1",
-      "image_url": "https://media.istockphoto.com/photos/coding-language-development-icon-on-yellow-background-software-picture-id1372764637?b=1&k=20&m=1372764637&s=170667a&w=0&h=AAXme4I49rP563h1ihhW_GUtHf1_bJCmKB4mm0gYnjs=",
-      "name": "JavaScript",
-      "rating": 4.5, 
-      "total_view": 488,
-      "price":400,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "category_id": "2",
+      "image_url": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bm9kZWpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Introdution to React Js For bengenners",
+      "rating": 45, 
+      "total_view": 688,
+      "price":98,
+      "title": "Introdution to React Js For bengenners with project",
       "author": {
-        "name":"Afsa",
+        "name":"Mahabub Alam",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "details": "React makes it painless to create interactive UIs.We’ll assume that you have some familiarity with HTML and JavaScript, but you should be able to follow along even if you’re coming from a different programming language.  Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug."
     }
 ]
