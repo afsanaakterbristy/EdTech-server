@@ -15,8 +15,21 @@ app.get('/courses-category', (req, res) => {
     res.send(courseCategory)
 })
 
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    if (id === "8") {
+        res.send(allcategory)
+    } else {
+        
+        const category_course = allcategory.filter(c => c.category_id === id)
+         res.send(category_course)
+    }
+})
+
 app.get('/allcategory/:id', (req, res) => {
     const id = req.params.id;
+    const selectedAllCategory = allcategory.find(c => c._id === id)
+    res.send(selectedAllCategory)
     
     //console.log(req.params.id);
 })
