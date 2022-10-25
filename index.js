@@ -17,7 +17,7 @@ app.get('/courses-category', (req, res) => {
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
-    if (id === "4") {
+    if (id === "6") {
         res.send(allcategory)
     } else {
         

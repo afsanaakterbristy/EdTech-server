@@ -9,6 +9,12 @@
         "name": "Design"
     },   
     {    "id":"4",
+        "name": "Nodejs"
+    },   
+    {    "id":"5",
+        "name": "Ux & UI Design"
+    },   
+    {    "id":"6",
         "name": "All Courses"
     }
 ]
