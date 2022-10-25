@@ -17,13 +17,17 @@ app.get('/courses-category', (req, res) => {
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
-    if (id === "8") {
+    if (id === "4") {
         res.send(allcategory)
     } else {
         
         const category_course = allcategory.filter(c => c.category_id === id)
          res.send(category_course)
     }
+})
+
+app.get('/courses', (req, res) => {
+    res.send(allcategory);
 })
 
 app.get('/allcategory/:id', (req, res) => {
